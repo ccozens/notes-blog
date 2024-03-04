@@ -19,9 +19,9 @@
 <style>
 	:global(:root) {
 		--spacing-unit: 4px;
-		--color-background: #e5e5e5;
-		--color-text-primary: #212121;
-		--color-text-secondary: #5a5a5a;
+		--color-background: #212121;
+		--color-text-primary: #e5e5e5;
+		--color-text-secondary: #959595;
 	}
 
 	:global(body) {
