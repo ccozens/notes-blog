@@ -4,17 +4,18 @@ description: "Notes from Helpful approaches with PDA – children"
 published: true
 ---
 
-Helpful approaches
+## Helpful approaches
 https://www.pdasociety.org.uk/life-with-pda-menu/family-life-intro/helpful-approaches-children/
 
-Understanding behaviours
 
-Anxiety
+### Understanding behaviours
+
+#### Anxiety
 - undeerstand and accept that a child's behaviours are underpinned by anxiety and a need for control
 - anxiety can be expressed by avoidance, anger, cruing, laughing, not talking, fidgeting, obsessing, skin picking, running off, masking, throwing, etc
 - the 5 point scale / anxiety curve models
 
-Adjust your mindset
+#### Adjust your mindset
 
 - look beyond surface behaviours
 - re-balance your relationship
@@ -22,10 +23,10 @@ Adjust your mindset
 -  focus on the long term objective: building a child's ability to cope
 -  be flexible in finding an approach that works
 
-Optimise the environment
+### Optimise the environment
 
-Typically developing child: put in place firm boundaries, use rewards, consequences and praise.
-PDA child: develop an approach based on negotiation, collaboration and flexibility.
+<bold>Typically developing child:</bold> put in place firm boundaries, use rewards, consequences and praise.
+<bold>PDA child:</bold> develop an approach based on negotiation, collaboration and flexibility.
 
 - balance tolerance and demands
   - appreciate that a child's tolerance for demands varies
@@ -39,13 +40,12 @@ PDA child: develop an approach based on negotiation, collaboration and flexibili
   - important to know how to extract yourself from a challenging situation
   - eg, you might agree a quiet zone where a child can retreat to or provide reassurance that if something can’t be done today it can be tried again tomorrow
 
-Reducing the perception of demands
-
+## Reducing the perception of demands
 
 [Declarative langugage handbook](https://www.amazon.co.uk/Declarative-Language-Handbook-Thoughtful-Challenges/dp/1734516208/ref=asc_df_1734516208/?tag=googshopuk-21&linkCode=df0&hvadid=428017759642&hvpos=&hvnetw=g&hvrand=14919461142097636393&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045594&hvtargid=pla-894552775868&psc=1&th=1&psc=1&tag=&ref=&adgrpid=103526073030&hvpone=&hvptwo=&hvadid=428017759642&hvpos=&hvnetw=g&hvrand=14919461142097636393&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045594&hvtargid=pla-894552775868)
 
 Typically, this means reframing demands to make them seem less "demandy". A mixture of approaches usually works best:
-- Phraseology and tone
+- **Phraseology and tone**
   - use declarative language (statements, comments or observations)
      - "You need a coat on outside" rather than "Put your coat on"
      - “The clothes are on the bed, I’m happy to help” and then walk away, rather than “You need to get dressed now”
@@ -61,7 +61,7 @@ Typically, this means reframing demands to make them seem less "demandy". A mixt
      -  "no", "don't", "can't"
      -  instead: "It's not possible right now" and explain while offering an alternative
          -  "“I’m afraid it’s not possible to go to the park right now because there’s a storm, but we can try this afternoon when the forecast is better and in the meantime would you like to bake a cake or watch a film?”
-- indirect communication
+- **indirect communication**
   - physical prompts
     - eg tap shoes, point to the coat
   - visual prompts
@@ -84,27 +84,29 @@ Typically, this means reframing demands to make them seem less "demandy". A mixt
   - model demands/behaviours yourself without putting any pressure or expectation on child
     - "I’m feeling really stressed right now so I’m going to lie down in a quiet room and listen to some whale songs to help me to calm down."
 
-Be cautious with rewards/praise/sanctions
+## Be cautious with rewards/praise/sanctions
 
+### Rewards
 Rewards create an additional demand - if the thing isn't achieved, the reward isn't either, magnifying the problem. They also don't address the underlying difficulty / lack of skills which are preventing achievement.
 
-What can work:
+#### What can work:
 - surprise rewards (as there has been no expectation)
 - immediate rewards (as the child can see the link between the behaviour and the reward)
 - tangible rewards (objects related to child's special interest, rather than stickers)
 
+### Praise
 Praise can be a demand to repeat or improve on previous performance, and encouragement is a demand as it increase expectation.
 
-What can help:
+#### What can help:
 - Praise results rather than person (e.g. "what a wonderfully tidy room" rather than "well done for tidying your room")
 - praise child to a third party within child's hearing (comment to partner "child did so well walking to the shop")
 - offer exit strategies when encouraging ("It would be great for you to go to the cinema with your friends, but don’t worry if it feels too much once you’re there, you can call me and I’ll come and pick you up")
 
-Sanctions or consequences:
+### Sanctions or consequences:
 - feel unfair when the child feels they can't do something
 - can appear arbitrary when not directly linked to the behaviour (eg where's the link between using iPad and being mean to sibling?)
 
-What can help:
+#### What can help:
 - natural consequences (eg can't watch ipad if it gets broken during a meltdown)
 -  discussing ways to avoid difficult situations from arising in future when everyone has calmed down
 -
