@@ -9,12 +9,10 @@
 	export let data: PageData;
 </script>
 
-<PageHead title="Home" description="An awesome blog about development with Svelte" />
+<PageHead title="Home" description="An awesome blog about PDA" />
 
 <p>
-	This is a minimalistic example of a blog built with <a href="https://kit.svelte.dev">SvelteKit</a>
-	and <a href="https://mdsvex.com/">MDsveX</a>.
-	<a href="https://github.com/mvasigh/sveltekit-mdsvex-blog">View source code on Github.</a>
+	Yes, I made a website 🙈
 </p>
 
 {#each data.posts as { slug, title, author, description, date }}
