@@ -41,5 +41,70 @@ PDA child: develop an approach based on negotiation, collaboration and flexibili
 
 Reducing the perception of demands
 
+
+[Declarative langugage handbook](https://www.amazon.co.uk/Declarative-Language-Handbook-Thoughtful-Challenges/dp/1734516208/ref=asc_df_1734516208/?tag=googshopuk-21&linkCode=df0&hvadid=428017759642&hvpos=&hvnetw=g&hvrand=14919461142097636393&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045594&hvtargid=pla-894552775868&psc=1&th=1&psc=1&tag=&ref=&adgrpid=103526073030&hvpone=&hvptwo=&hvadid=428017759642&hvpos=&hvnetw=g&hvrand=14919461142097636393&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045594&hvtargid=pla-894552775868)
+
 Typically, this means reframing demands to make them seem less "demandy". A mixture of approaches usually works best:
+- Phraseology and tone
+  - use declarative language (statements, comments or observations)
+     - "You need a coat on outside" rather than "Put your coat on"
+     - “The clothes are on the bed, I’m happy to help” and then walk away, rather than “You need to get dressed now”
+     -  place the drink near child and say “Here’s a drink”
+ -  rephrasing to talk about an object rather than a person
+ -  starting rather than ending requests with the word ‘please’
+ -  indirect phrases that include an element of choice
+     -  "I wonder whether..."
+     -  "Let's see if..."
+     -  "Maybe we could..."
+     -  "An idea could be..."
+ -  avoid trigger words
+     -  "no", "don't", "can't"
+     -  instead: "It's not possible right now" and explain while offering an alternative
+         -  "“I’m afraid it’s not possible to go to the park right now because there’s a storm, but we can try this afternoon when the forecast is better and in the meantime would you like to bake a cake or watch a film?”
+- indirect communication
+  - physical prompts
+    - eg tap shoes, point to the coat
+  - visual prompts
+    - eg pictures or checklists - choice can be offered by letting child choose the order of tasks
+  - telling someone else to do something in child's hearing
+    - eg "I wonder if we could get the toys put away"
+  - leaving books or leaflets around for child to pick up out of natural curiosity
+  - communicating via role play
+    - eg "I wonder if the teddy bear would like to go to bed now"
+  - depersonalising
+    - invoke a higher authority ("we can't eat inside because the rules say so")
+  - distract / gamify
+    - “let’s list the top 10 dinosaurs” whilst getting into the bath.
+  - use humour
+  - ask for help
+    - ie say you don't know or can't remember as an indirect demand "I can't remember where the coat hangs up"
+  - offer choices and accept a compromise
+    - eg "would you like a bath at 6 or 7?" and accept 6.30
+    - stock a fridge shelf with healthy snacks and let child choose
+  - model demands/behaviours yourself without putting any pressure or expectation on child
+    - "I’m feeling really stressed right now so I’m going to lie down in a quiet room and listen to some whale songs to help me to calm down."
+
+Be cautious with rewards/praise/sanctions
+
+Rewards create an additional demand - if the thing isn't achieved, the reward isn't either, magnifying the problem. They also don't address the underlying difficulty / lack of skills which are preventing achievement.
+
+What can work:
+- surprise rewards (as there has been no expectation)
+- immediate rewards (as the child can see the link between the behaviour and the reward)
+- tangible rewards (objects related to child's special interest, rather than stickers)
+
+Praise can be a demand to repeat or improve on previous performance, and encouragement is a demand as it increase expectation.
+
+What can help:
+- Praise results rather than person (e.g. "what a wonderfully tidy room" rather than "well done for tidying your room")
+- praise child to a third party within child's hearing (comment to partner "child did so well walking to the shop")
+- offer exit strategies when encouraging ("It would be great for you to go to the cinema with your friends, but don’t worry if it feels too much once you’re there, you can call me and I’ll come and pick you up")
+
+Sanctions or consequences:
+- feel unfair when the child feels they can't do something
+- can appear arbitrary when not directly linked to the behaviour (eg where's the link between using iPad and being mean to sibling?)
+
+What can help:
+- natural consequences (eg can't watch ipad if it gets broken during a meltdown)
+-  discussing ways to avoid difficult situations from arising in future when everyone has calmed down
 -
