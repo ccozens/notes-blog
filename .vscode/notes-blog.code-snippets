@@ -1,0 +1,14 @@
+{
+
+	"new note": {
+		"prefix": "note",
+		"body": [
+		  "---",
+		  "title: '${1:example}'",
+		  "description: \"${2:example}\"",
+          "published: false",
+		  "---"
+		],
+		"description": "new note"
+	  }
+}

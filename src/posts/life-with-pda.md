@@ -1,3 +1,9 @@
+---
+title: 'Life with PDA'
+description: "Notes from Helpful approaches with PDA – children"
+published: true
+---
+
 Helpful approaches
 https://www.pdasociety.org.uk/life-with-pda-menu/family-life-intro/helpful-approaches-children/
 
@@ -36,4 +42,4 @@ PDA child: develop an approach based on negotiation, collaboration and flexibili
 Reducing the perception of demands
 
 Typically, this means reframing demands to make them seem less "demandy". A mixture of approaches usually works best:
-- 
+-
