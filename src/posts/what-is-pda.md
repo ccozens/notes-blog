@@ -44,6 +44,7 @@ published: true
 - reducing meaningful conversation.
 
 <img src={demandAvoidanceTriangle} alt="Demand avoidance triangle">
+
 If these approaches don't work or aren't noticed by others, escalation to panic can be rapid as a lack of choices / options to retain control is felt. Meltdowns in PDA are best understood as being like panic attacks.
 
 ## Identyifying PDA

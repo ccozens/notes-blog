@@ -44,6 +44,10 @@
 		text-decoration: underline;
 	}
 
+	:global(img) {
+		max-width: 100%;
+	}
+
 	.small {
 		font-size: 1.6rem;
 	}
