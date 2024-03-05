@@ -10,11 +10,6 @@
 	<slot />
 </main>
 
-<footer>
-	<p>
-		Copyright &#169; <a href="https://twitter.com/mehdi_vasigh">Mehdi Vasigh</a>, {new Date().getFullYear()}
-	</p>
-</footer>
 
 <style>
 	:global(:root) {
