@@ -4,6 +4,26 @@ description: "Notes from Helpful approaches with PDA – children"
 published: true
 ---
 
+<script>
+    import senses from './life-with-pda/Senses.webp';
+</script>
+
+<style>
+    table
+    {border-collapse: collapse;
+    border: 3px solid var(--color-text-secondary);}
+
+    th, td {
+        padding: 15px;
+        text-align: center;
+        border: 1px solid var(--color-text-secondary);
+    }
+
+    tbody > tr:nth-of-type(odd) {
+        background-color: var(--color-background-secondary);
+    }
+</style>
+
 ## Helpful approaches
 https://www.pdasociety.org.uk/life-with-pda-menu/family-life-intro/helpful-approaches-children/
 
@@ -108,5 +128,101 @@ Praise can be a demand to repeat or improve on previous performance, and encoura
 
 #### What can help:
 - natural consequences (eg can't watch ipad if it gets broken during a meltdown)
--  discussing ways to avoid difficult situations from arising in future when everyone has calmed down
+- discussing ways to avoid difficult situations from arising in future when everyone has calmed down
+
+
+## Supporting sensory needs
+
+<img src={senses} alt="Spider chart describing seses: olfactory, gustatory, intereception, auditory, vestibuler, proprioception, tactile">
+
+- PDA children may be **hyper**-sensitive (seek to avoid the sense), **hypo**-sensitive (seek more of the senses), or both.
+- It is possible to be hyper- and hyop-sensitive to the same sense
+  - eg enjoying your own voice or music choice, but not liking someone else's
+- Sensory needs can change over time, and depending on other factors (eg tiredness, hunger, anxiety)
+
+### Sensory vs behaviour
+- Sensory needs can be mistaken for behaviour
+
+<table>
+<tbody>
+<tr>
+<th scope="col">Sensory</th>
+<th scope="col">Behaviour</th>
+</tr>
+<tr>
+<td>has a meltdown every
+night during the gettingready-for-bed routine</td>
+<td>is more compliant with
+toothbrushing for dad than
+for mum</td>
+</tr>
+<tr>
+<td>would go all day
+without liquids if we didn't let
+her drink from her bottle</td>
+<td>refuses to try new foods
+but she eats several snacks
+every day</td>
+</tr>
+<tr>
+<td>cannot self-soothe</td>
+<td>escalates if we ignore the
+tantrum</td>
+</tr>
+<tr>
+<td>bites her wrist when she
+is frustrated</td>
+<td>bites her brother when
+he takes her toy</td>
+</tr>
+<tr>
+<td>meltdowns are
+predictable</td>
+<td>meltdowns happen in a
+variety of situations and
+settings</td>
+</tr>
+<tr>
+<td>consistently does better
+at ____ " (home, school,
+grandma's house)</td>
+<td>struggles in every setting
+if she doesn't get her way</td>
+</tr>
+<tr>
+<td>doesn't seem to be
+aware that he has a wet nappy</td>
+<td>asks for a nappy change
+soon after peeing or pooping</td>
+</tr>
+<tr>
+<td>struggles with changes
+in routine</td>
+<td>struggles with following
+directions</td>
+</tr>
+<tr>
+<td>acts out during
+transitions</td>
+<td>acts out when mum is
+taking care of his baby sister</td>
+</tr>
+
+</tbody>
+</table>
+
+### What can help:
+
+- **chewy toys** for oral sensory input
+- **headphones** for children who become overstimulated by noise and crowds
+- **fidget toys** for tactile input
+- **opportunity for movement** and exercise
+- **scented objects** for children who are distressed by unfamiliar smells
+- **Seamless socks**, **wide fitting shoes** and **cutting labels out of clothes** for those who are hyper sensitive to touch
+
+
+### Resources
+- [Making Sense of Behaviour booklet](https://www.falkirk.gov.uk/services/social-care/disabilities/docs/young-people/Making%20Sense%20of%20Sensory%20Behaviour.pdf?v=201507131117)
+- [Sensory Processing Disorder Checklist](https://www.sensory-processing-disorder.com/sensory-processing-disorder-checklist.html)
+- [Resources and ideas from Sensational Brain](https://sensationalbrain.com/free-resources/)
 -
