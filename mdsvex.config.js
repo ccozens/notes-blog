@@ -1,5 +1,6 @@
 import rehypeSlug from 'rehype-slug';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
+import rehypeTOC from '@jsdevtools/rehype-toc';
 import { defineMDSveXConfig as defineConfig } from 'mdsvex';
 
 const config = defineConfig({
@@ -16,7 +17,8 @@ const config = defineConfig({
 			{
 				behavior: 'wrap'
 			}
-		]
+		],
+		rehypeTOC
 	]
 });
 

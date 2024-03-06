@@ -36,5 +36,8 @@
 		"vite": "^5.1.5",
 		"vitest": "^0.25.8"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@jsdevtools/rehype-toc": "^3.0.2"
+	}
 }
