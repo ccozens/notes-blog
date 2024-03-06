@@ -28,6 +28,11 @@ published: true
     tbody > tr:nth-of-type(odd) {
         background-color: var(--color-background-secondary);
     }
+
+    tfoot > tr > td {
+        font-size: 0.8rem;
+        padding: 10px;
+    }
 </style>
 
 ## Helpful approaches
@@ -51,8 +56,8 @@ https://www.pdasociety.org.uk/life-with-pda-menu/family-life-intro/helpful-appro
 
 ### Optimise the environment
 
-<bold>Typically developing child:</bold> put in place firm boundaries, use rewards, consequences and praise.
-<bold>PDA child:</bold> develop an approach based on negotiation, collaboration and flexibility.
+**Typically developing child:** put in place firm boundaries, use rewards, consequences and praise.
+**PDA child:** develop an approach based on negotiation, collaboration and flexibility.
 
 - balance tolerance and demands
   - appreciate that a child's tolerance for demands varies
@@ -71,44 +76,45 @@ https://www.pdasociety.org.uk/life-with-pda-menu/family-life-intro/helpful-appro
 [Declarative langugage handbook](https://www.amazon.co.uk/Declarative-Language-Handbook-Thoughtful-Challenges/dp/1734516208/ref=asc_df_1734516208/?tag=googshopuk-21&linkCode=df0&hvadid=428017759642&hvpos=&hvnetw=g&hvrand=14919461142097636393&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045594&hvtargid=pla-894552775868&psc=1&th=1&psc=1&tag=&ref=&adgrpid=103526073030&hvpone=&hvptwo=&hvadid=428017759642&hvpos=&hvnetw=g&hvrand=14919461142097636393&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045594&hvtargid=pla-894552775868)
 
 Typically, this means reframing demands to make them seem less "demandy". A mixture of approaches usually works best:
-- **Phraseology and tone**
-  - use declarative language (statements, comments or observations)
-     - "You need a coat on outside" rather than "Put your coat on"
-     - “The clothes are on the bed, I’m happy to help” and then walk away, rather than “You need to get dressed now”
-     -  place the drink near child and say “Here’s a drink”
- -  rephrasing to talk about an object rather than a person
- -  starting rather than ending requests with the word ‘please’
- -  indirect phrases that include an element of choice
-     -  "I wonder whether..."
-     -  "Let's see if..."
-     -  "Maybe we could..."
-     -  "An idea could be..."
+**Phraseology and tone**
+- use declarative language (statements, comments or observations)
+    - "You need a coat on outside" rather than "Put your coat on"
+   - “The clothes are on the bed, I’m happy to help” and then walk away, rather than “You need to get dressed now”
+   -  place the drink near child and say “Here’s a drink”
+-  rephrasing to talk about an object rather than a person
+-  starting rather than ending requests with the word ‘please’
+-  indirect phrases that include an element of choice
+  -  "I wonder whether..."
+  -  "Let's see if..."
+  -  "Maybe we could..."
+  -  "An idea could be..."
  -  avoid trigger words
-     -  "no", "don't", "can't"
-     -  instead: "It's not possible right now" and explain while offering an alternative
-         -  "“I’m afraid it’s not possible to go to the park right now because there’s a storm, but we can try this afternoon when the forecast is better and in the meantime would you like to bake a cake or watch a film?”
-- **indirect communication**
-  - physical prompts
-    - eg tap shoes, point to the coat
-  - visual prompts
-    - eg pictures or checklists - choice can be offered by letting child choose the order of tasks
-  - telling someone else to do something in child's hearing
-    - eg "I wonder if we could get the toys put away"
-  - leaving books or leaflets around for child to pick up out of natural curiosity
-  - communicating via role play
-    - eg "I wonder if the teddy bear would like to go to bed now"
-  - depersonalising
-    - invoke a higher authority ("we can't eat inside because the rules say so")
-  - distract / gamify
-    - “let’s list the top 10 dinosaurs” whilst getting into the bath.
-  - use humour
-  - ask for help
-    - ie say you don't know or can't remember as an indirect demand "I can't remember where the coat hangs up"
-  - offer choices and accept a compromise
-    - eg "would you like a bath at 6 or 7?" and accept 6.30
-    - stock a fridge shelf with healthy snacks and let child choose
-  - model demands/behaviours yourself without putting any pressure or expectation on child
-    - "I’m feeling really stressed right now so I’m going to lie down in a quiet room and listen to some whale songs to help me to calm down."
+  -  "no", "don't", "can't"
+  -  instead: "It's not possible right now" and explain while offering an alternative
+     -  "I’m afraid it’s not possible to go to the park right now because there’s a storm, but we can try this afternoon when the forecast is better and in the meantime would you like to bake a cake or watch a film?"
+
+**indirect communication**
+- physical prompts
+  - eg tap shoes, point to the coat
+- visual prompts
+  - eg pictures or checklists - choice can be offered by letting child choose the order of tasks
+- telling someone else to do something in child's hearing
+  - eg "I wonder if we could get the toys put away"
+- leaving books or leaflets around for child to pick up out of natural curiosity
+- communicating via role play
+  - eg "I wonder if the teddy bear would like to go to bed now"
+- depersonalising
+  - invoke a higher authority ("we can't eat inside because the rules say so")
+- distract / gamify
+  - “let’s list the top 10 dinosaurs” whilst getting into the bath.
+- use humour
+- ask for help
+  - ie say you don't know or can't remember as an indirect demand "I can't remember where the coat hangs up"
+- offer choices and accept a compromise
+  - eg "would you like a bath at 6 or 7?" and accept 6.30
+  - stock a fridge shelf with healthy snacks and let child choose
+- model demands/behaviours yourself without putting any pressure or expectation on child
+  - "I’m feeling really stressed right now so I’m going to lie down in a quiet room and listen to some whale songs to help me to calm down."
 
 ## Be cautious with rewards/praise/sanctions
 
@@ -215,6 +221,11 @@ taking care of his baby sister</td>
 </tr>
 
 </tbody>
+<tfoot>
+<tr>
+<td colspan="2">Table from <a href="https://www.sensationalbrain.com/free-resources/">Sensational Brain</a></td>
+</tr>
+</tfoot>
 </table>
 
 ### What can help:
@@ -231,4 +242,29 @@ taking care of his baby sister</td>
 - [Making Sense of Behaviour booklet](https://www.falkirk.gov.uk/services/social-care/disabilities/docs/young-people/Making%20Sense%20of%20Sensory%20Behaviour.pdf?v=201507131117)
 - [Sensory Processing Disorder Checklist](https://www.sensory-processing-disorder.com/sensory-processing-disorder-checklist.html)
 - [Resources and ideas from Sensational Brain](https://sensationalbrain.com/free-resources/)
--
+
+
+## Supporting social communication and interaction
+
+[PDA society webinar](https://www.pdasociety.org.uk/resources/pda-speech-language-therapy/)
+
+### Communication
+- **allow processing time**
+  - eg count to 5 to give a child time to process and thing about a response
+- **chunk questions**
+  - eg "what did you do at school today?" is a big question, "what did you do at break time?" is a smaller question
+  - allow time for a child to answer before asking a follow-up
+- **be clear and precise whilst being indirect**
+  - "“I wonder if you could help me. I need four blue cups, from that cupboard, to be put on the table in the kitchen”.
+
+### Social interaction
+- **role play** can help a child understand other people's perspectives
+- **TV/books/gaming** can enable indirect development of social skills
+- link activities to special interests (eg child could be teacher for a game)
+
+## Supporting emotional well-being
+
+- focus on positive qualities
+- remind child they are valued for tho whty are and that they are loved
+- support and indulge them with the things that they’re interested in rather than trying to impose on them what you feel they should be doing
+- speak about them in positive terms to other people e.g. “Millie has an amazing imagination, she always thinks of really good games to play” or “Luke really makes me laugh, he’s such good fun to be with.”
