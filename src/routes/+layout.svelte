@@ -31,8 +31,8 @@
 
 		background-color: var(--color-background);
 		color: var(--color-text-primary);
-		line-height: 1.51;
-		font-size: 18px;
+		line-height: 1.5;
+		font-size: 1.2rem;
 	}
 
 	:global(a, a:visited, a:active) {

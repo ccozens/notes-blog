@@ -9,14 +9,20 @@ published: true
 </script>
 
 <style>
-    table
-    {border-collapse: collapse;
-    border: 3px solid var(--color-text-secondary);}
+    table {
+        border-collapse: collapse;
+        border: 3px solid var(--color-text-secondary);
+    }
 
     th, td {
         padding: 15px;
         text-align: center;
         border: 1px solid var(--color-text-secondary);
+        font-size: 1rem;
+    }
+
+    th {
+        font-size: 1.5rem;
     }
 
     tbody > tr:nth-of-type(odd) {
