@@ -14,10 +14,10 @@
 <style>
 	:global(:root) {
 		--spacing-unit: 4px;
-		--color-background: #212121;
-		--color-secondary: #212121;
-		--color-text-primary: #e5e5e5;
-		--color-text-secondary: #959595;
+		--color-background: oklch(15% 0.1 268);
+		--color-background-secondary: oklch(20% 0.1 268);
+		--color-text-primary: oklch(95% 0.03 82);
+		--color-text-secondary: oklch(90% 0.5 82);
 	}
 
 	:global(body) {
